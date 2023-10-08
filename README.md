@@ -1,6 +1,6 @@
 ## About me
 
-👋 Hi, I'm a tech enthusiast creating efficient and advanced solutions with Next.js, ASP.NET Core, and Azure, specializing in web development and AI models like GPT, while pioneering innovation in the exciting world of technology.
+👋 Hi, I'm a tech enthusiast mainly building solutions with Next.js / .NET and hosting on Vercel / Azure.
 
 ## GitHub profile stats
 
